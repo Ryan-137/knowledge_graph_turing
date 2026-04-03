@@ -333,10 +333,36 @@ def split_sentences(text: str) -> list[str]:
     return deduplicate_lines(sentences)
 
 
+def extract_baike_lines(container) -> list[str]:
+    lines: list[str] = []
+
+    for heading in container.select(".paraTitle_ag9fe h2, .paraTitle_ag9fe h3"):
+        text = clean_inline_text(heading.get_text(" ", strip=True))
+        if text:
+            lines.append(text)
+
+    for paragraph in container.select("[data-tag='paragraph']"):
+        text_nodes = paragraph.select(".J-lemma-content-lemma-text[data-text='true']")
+        pieces = [clean_inline_text(node.get_text(" ", strip=True)) for node in text_nodes]
+        pieces = [piece for piece in pieces if piece]
+        if pieces:
+            lines.append(" ".join(pieces))
+
+    return deduplicate_lines(lines)
+
+
 def extract_baike_text(soup: BeautifulSoup, fallback: str) -> tuple[str, str]:
     title = extract_title(soup, fallback=fallback)
-    description = get_meta_content(soup, "description", "og:description")
+    container = soup.select_one(".J-lemma-content")
+    if container is not None:
+        raw_lines = extract_baike_lines(container)
+        cleaned_lines = clean_lines(raw_lines)
+        if title and (not cleaned_lines or cleaned_lines[0] != title):
+            cleaned_lines.insert(0, title)
+        if cleaned_lines:
+            return title, "\n".join(cleaned_lines)
 
+    description = get_meta_content(soup, "description", "og:description")
     lines = [title]
     if description:
         lines.append(description)

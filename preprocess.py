@@ -68,6 +68,17 @@ class DocumentRecord:
     char_count: int
 
 
+@dataclass
+class SentenceRecord:
+    sentence_id: str
+    doc_id: str
+    title: str
+    source_path: str
+    source_type: str
+    sentence_index: int
+    text: str
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(description="Preprocess source files for the Turing knowledge graph.")
     parser.add_argument(
@@ -452,14 +463,40 @@ def extract_document(path: Path) -> DocumentRecord:
     )
 
 
+def build_sentence_records(records: list[DocumentRecord]) -> list[SentenceRecord]:
+    sentence_records: list[SentenceRecord] = []
+
+    for record in records:
+        for index, sentence in enumerate(record.sentences, start=1):
+            sentence_records.append(
+                SentenceRecord(
+                    sentence_id=f"{record.doc_id}_s{index:04d}",
+                    doc_id=record.doc_id,
+                    title=record.title,
+                    source_path=record.source_path,
+                    source_type=record.source_type,
+                    sentence_index=index,
+                    text=sentence,
+                )
+            )
+
+    return sentence_records
+
+
 def write_outputs(records: list[DocumentRecord], output_dir: Path) -> None:
     output_dir.mkdir(parents=True, exist_ok=True)
     text_dir = output_dir / "texts"
     text_dir.mkdir(parents=True, exist_ok=True)
 
     payload = [asdict(record) for record in records]
+    sentence_payload = [asdict(record) for record in build_sentence_records(records)]
+
     (output_dir / "documents.json").write_text(
         json.dumps(payload, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    (output_dir / "sentences.json").write_text(
+        json.dumps(sentence_payload, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
 

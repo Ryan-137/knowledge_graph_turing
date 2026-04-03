@@ -1,0 +1,1 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[6047],{7059:(e,_,s)=>{s.r(_),s.d(_,{default:()=>o}),s(63696);var l=s(63202),t=s(62540);const o=e=>{var{slot:_,enableDotcomAds:s,allowAdvertising:o}=e,A="boolean"==typeof o?s&&o:s;return(0,t.jsx)(l.A,{slotType:_,enable:A})}}}]);

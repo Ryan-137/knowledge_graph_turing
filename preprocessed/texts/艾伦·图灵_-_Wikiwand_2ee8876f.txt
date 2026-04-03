@@ -1,0 +1,141 @@
+艾伦·图灵
+艾伦·麦席森·图灵 ， OBE ， FRS （英语： Alan Mathison Turing ，又译 阿兰·图灵 ， Turing 也常翻译成 涂林 或者 杜林 ，1912年6月23日—1954年6月7日）， 英国 计算机科学家 、 数学家 、 逻辑学家 、 密码分析学 家和 理论生物学家 ，他被誉为 计算机科学 与 人工智能 之父。
+马拉松 ：2小时46分03秒（手动） （1947年）
+1947年英格兰业余田径锦标赛 ：马拉松第五名
+二次世界大战 期间，“Hut 8”小组，负责 德国海军 密码分析。 期间他设计了一些加速破译德国密码的技术，包括改进波兰战前研制的机器 Bombe ，一种可以找到 恩尼格玛密码机 设置的 机电 机器。 图灵在破译截获的编码信息方面发挥了关键作用，使盟军能够在包括 大西洋战役 在内的许多重要交战中击败 轴心国 海军，并因此帮助赢得了战争 [ 3 ] [ 4 ] 。
+图灵对于 人工智能 的发展有诸多贡献，例如图灵曾写过一篇名为《 计算机器和智能 （ 英语 ： Computing Machinery and Intelligence ） 》的论文，提问“机器会思考吗？”（ Can Machines Think ? ），作为一种用于判定机器是否具有 智能 的测试方法，即 图灵测试 [ 5 ] 。至今，每年都有试验的比赛。此外，图灵提出的著名的 图灵机 模型为现代 计算机 的 逻辑 工作方式奠定了基础。
+图灵是 男同性恋 者，并因为其性倾向而遭到当时的英国政府迫害，职业生涯尽毁。他亦患有 花粉过敏症 。
+图灵还是一位 长跑 运动员。他的 马拉松 最好成绩是2小时46分03秒（手动计时），比1948年 奥林匹克运动会 金牌成绩慢11分钟。1948年的一次越野赛跑中，他跑赢了同年奥运会银牌得主 汤姆·理查兹 [ 6 ] 。
+图灵的父亲朱利斯·麦席森·图灵（ Julius Mathison Turing ）是一名 英属印度 的公务员。1911年，图灵的母亲 Ethel Sara Stoney （ 德语 ： Ethel Sara Turing ） 在 英属印度 怀了孕。因为他们希望艾伦在 英国 出生，所以回到 伦敦 ，住在 帕丁顿 ，并在那里生下了艾伦。父亲的公务员委任使他在小时候经常来往于英伦和印度。由于担心印度的气候不利于儿童成长，他便把家庭留在英伦与朋友同住。图灵很小的时候就表现出他的天赋，后来越发明显 [ 7 ] 。
+1927年，他的父母在 吉尔福德 购买了一所房子，图灵在学校放假期间住在该处。该位置附近还标有蓝色路牌。 [ 8 ]
+六岁的时候，他的父母为他在一间叫圣迈克尔（ St. Michael's ）的日间学校注册。女校长很快就注意到他的才能，随后 马尔伯勒学院 的许多教育家也注意到这点。1926年，他十三岁的时候考入在 多塞特郡 的 舍伯恩学校 （ 英语 ： Sherborne School ） 。 [ 9 ] 开学的第一天，不幸遇上了大罢工。图灵坚决要上第一天的课，于是他独自从 南安普顿 骑了六十英哩的自行车去上学，途中还在一间旅社度过一宵。 [ 10 ]
+图灵天生对科学的喜好并没有给他在谢尔本的老师留下好印象。他们对教育较为着重于人文学科而不是科学。虽然如此，图灵继续在他喜欢的学科表现出惊人的能力，还没有学过基础 微积分 的他，就已经能够解答以他年纪来说算是很高深的难题。
+1928年，在图灵16岁的时候，开始阅读 阿尔伯特·爱因斯坦 的著作。他不但能够理解，而且看出了爱因斯坦对 牛顿运动定律 存有质疑，即使爱因斯坦的著作中并没有明白指出这点。 [ 11 ]
+1931年，图灵考入 剑桥大学国王学院 攻读本科，并获得了数学一等荣誉。
+1934年他以优异成绩毕业。
+1935年，22岁的他凭借证明中心极限定理的论文被选为国王学院研究员 [ 12 ] [ 13 ] 。虽然说图灵不知道，该定理已在1922年由 亚尔·瓦尔德马·林德伯格 （ 英语 ： Jarl Waldemar Lindeberg ） 证明。尽管如此，委员会认为这项研究值得考虑提供研究金。
+图灵在他的重要论文《论 可计算数 及其在判定问题上的应用》（英语： On Computable Numbers, with an Application to the Entscheidungsproblem ）里 [ 14 ] ，对 哥德尔 1931年在证明和计算的限制的结果作了重新论述，他用现在叫做 图灵机 的简单形式的抽象设备代替了哥德尔的以通用算术为基础的形式语言。虽然图灵机过于缓慢的速度使其没有实际用途，图灵还是证明了这样的机器有能力解决任何可想像的，并以数学式表达的数学难题。现今，图灵机还是 计算理论 研究的中心课题。他继续证明了 判定问题 是没有答案的。他的证明首先展示了图灵机的 停机问题 没有答案，这是说不可能用一个算法来决定一台指定的图灵机是否会停机。尽管他的证明比 阿隆佐·邱奇 在 λ演算 方面相等的证明晚发表了几个月，图灵的著作是更易于理解和直观。他的通用（图灵）机的概念也很新颖。这一通用机能够完成任何其他机器所能做的任务。这篇论文还介绍了可定义数的概念。 [ 15 ]
+1936年9月到1938年7月间，图灵大部分时间都在普林斯顿大学的教堂下学习，第二年被评选为简·伊丽莎·宝洁奖学金客座教授（Jane Eliza Procter Visiting Fellow）。除了他的纯数学工作外，他亦研究密码学，并建造了机电二进制乘法器的四个阶段中的其中三个。 [ 16 ] 1938年6月，获普林斯顿数学系博士学位； [ 17 ] 他的论文基于序数的逻辑系统 [ 18 ] [ 19 ] ,介绍了 序数 逻辑的概念和 相对计算 的概念，其中图灵机增加了所谓的预言机，允许学者进一步研究图灵机无法解决的问题。 冯·诺依曼 有意聘请图灵做他的博士后助理，但他谢绝后又回到了英国。 [ 20 ]
+1939年图灵回到剑桥，聆听了 维特根斯坦 关于 数学基本原理 （Foundations of mathematics）的讲座。他们激烈地争论，图灵为 形式主义 辩护，而维特根斯坦则认为把数学抬得太高反而不能发现任何绝对真理。
+在第二次世界大战期间，图灵是布莱切利庄园破解德国密码的主要参与者。历史学家和战时密码破译员 Asa Briggs （ 英语 ： Asa Briggs ） 曾说过：“你需要非凡的天赋，你需要布莱切利的天才，而图灵就是那个天才。” [ 21 ]
+从1938年9月起，图灵在英国密码破译组织 政府密码和密码学校 (GC&CS)兼职工作。他与高级GC&CS密码破译员第利温·诺克斯一起专注于对 德国 使用的 恩尼格玛密码机 进行密码分析。 [ 22 ]
+1939年7月，波兰密码局在华沙附近的会议上向 英国 和 法国 提供了恩尼格玛密码机机器的详细信息以及他们解密恩尼格玛密码机机器信息的方法。不久后，图灵和诺克斯开发了一个更具广泛性的解决方案。 [ 23 ] 波兰 方法依赖于德国人的不严谨的程序。图灵的方法更通用，使用基于恩尼格玛分析，他为此制作了炸弹的功能规范（对波兰炸弹的改进）。 [ 24 ]
+1939年图灵被 英国皇家海军 招聘，并在英国 军情六处 监督下从事对 德国 机密军事密码的破译工作。两年后他的小组成功破译了德国的密码系统 恩尼格玛密码机 [ 注 1 ] ，从而使得军情六处对德国的军事指挥和计划了如指掌。但是军情六处以机密为由隐瞒了图灵小组的存在和成就，将其所得情报据为己有。
+通过使用统计技术来优化密码破译过程中不同可能性的试验，图灵为该课题做出了创新贡献。他写了两篇有关数学计算方法的论文，题为 The Applications of Probability to Cryptography [ 25 ] 和 Paper on Statistics of Repetitions [ 26 ] , 对 GC&CS 及其继任者GCHQ具有十分重要的价值，以至于它们直到2012年4月才被发布给英国国家档案馆，也就是他诞辰一百周年前不久。一位GCHQ数学家，“他只承认自己是理查德”，当时说，根据官方保密法，内容被屏蔽了大约 70 年这一事实证明了它们的重要性，以及它们与战后密码分析的相关性： [ 27 ]
+说，内容受到限制的事实“表明它在我们学科的基础中具有多么巨大的重要性”。...论文详细使用“数学分析来尝试确定哪些是更有可能的设置，以便尽快尝试它们。” ......理查德说，GCHQ 现在已经从这两篇论文中“榨取了汁液”，并且“很高兴将它们发布到公共领域”。
+图灵在 布莱切利庄园 以其古怪的性格而闻名。他的同事称他为“教授”（Prof），而他关于恩尼格玛密码机的论文被也被称为“教授之书”。 [ 28 ] [ 29 ] 根据历史学家 Ronald Lewin （ 英语 ： Ronald Lewin ） 的说法，与图灵一起工作的密码分析家 I·J·古德 （ 英语 ： I. J. Good ） 谈到他的同事时说：
+每年六月的第一周，他都会患上花粉热，他会戴着杀毒面具骑自行车去办公室，以防花粉。他的自行车有毛病：链条会定期脱落。他没有修理它，而是计算踏板转动的次数，并及时下车手动调整链条。他的另一个怪癖是他把杯子拴在散热器管上以防被偷。 [ 30 ]
+彼得希尔顿在他的“美国数学世纪的回忆”中讲述了他在小屋8中与图灵合作的经历： [ 31 ]
+遇到真正的天才是一种难得的经历。我们这些有幸居住在学术世界的人都熟悉才华横溢的同事提供的智力刺激。我们可以欣赏他们与我们分享的想法，并且通常能够理解它们的来源；我们甚至可能经常相信我们自己可以创造这样的概念并产生这样的想法。然而，分享天才的智力生活的体验却完全不同；一个人意识到自己是在一种智能的面前，一种对如此深刻和独创性的敏感性，以至于一个人充满了惊奇和兴奋。艾伦·图灵就是这样一个天才，而那些像我一样，在第二次世界大战的奇怪紧急情况下拥有惊人而意想不到的机会的人
+希尔顿在 Nova PBS纪录片《解码纳粹秘密》中也表达了类似的想法。 [ 32 ]
+在布莱奇利庄园工作期间，图灵是也一位才华横溢的长跑运动员，当需要开会时，他偶尔会跑 40 英里（64 公里）到伦敦， [ 33 ] 他有能力达到世界级的马拉松标准。 [ 34 ] [ 35 ] 图灵为 1948 年英国奥运代表队进行了试训，但他也被伤病的阻碍。他的马拉松选拔时间仅比英国银牌得主托马斯·理查兹（Thomas Richards）的奥运会比赛时间（2小时35分钟）慢了11分钟。他是沃尔顿竞技俱乐部最好的跑者，这一事实是在他独自跑过小组时发现的。 [ 36 ] [ 37 ] [ 38 ] 当被问及为什么他在训练中跑得如此努力时，他回答说：
+我的工作压力很大，要想摆脱它，唯一的办法就是努力奔跑。这是我释放压力的唯一方法。 [ 39 ]
+由于历史反事实的问题，很难准确估计超智能对战争的影响。 [ 40 ] 然而，官方战争历史学家 哈里·欣斯利 （ 英语 ： Harry Hinsley ） 估计，这项工作将欧洲的战争缩短了两年多，挽救了超过 1400 万人的生命。 [ 41 ]
+战争结束时，所有在 布莱切利庄园 工作的人收到了一份备忘录，提醒他们《官方保密法》规定的沉默守则不会随着战争而结束，而是会无限期地继续下去。 [ 42 ] 因此，尽管图灵在 1946 年被乔治六世国王任命为大英帝国勋章(OBE)，以表彰他在战时的服务，但他的工作多年来一直保密。 [ 43 ] [ 44 ]
+1945年到1948年，图灵在国家物理实验室负责自动计算引擎（ ACE ）的研究工作。1949年，他成为 曼彻斯特大学 计算机实验室的副主任，负责最早的真正的计算机——曼彻斯特一号的软件工作。在这段时间，他继续作一些比较抽象的研究，如“计算机械和智能”。图灵在对人工智能的研究中，提出了一个叫做 图灵测试 的实验，尝试定出一个决定机器是否有感觉的标准。 [ 15 ]
+1952年，图灵写了一个 国际象棋 程序。可是，当时没有一台计算机有足够的运算能力去执行这个程序，他就模仿计算机，每走一步要用半小时。他与一位同事下了一盘，结果程序输了。
+后来 美国 新墨西哥州 洛斯阿拉莫斯国家实验室 的研究组根据图灵的理论，在 ENIAC 上设计出世界上第一个电脑程序的国际象棋—— 洛斯阿拉莫斯象棋 。
+从1952年直到去世，图灵一直在 生物数学 方面做研究。他在1952年发表了一篇论文《形态发生的化学基础》（英语： The Chemical Basis of Morphogenesis ）。 [ 46 ] 他主要的兴趣是斐波那契叶序列，存在于植物结构的 斐波那契数 。他应用了反应-扩散公式，现在已经成为图案形成范畴的核心。他后期的论文都没有发表，一直等到1992年《艾伦·图灵选集》出版，这些文章才见天日。 [ 47 ] 2012年，《 自然 》杂志称赞他是有史以来最具科学思想的人物之一。 [ 48 ]
+因为图灵的 同性恋 倾向而遭到的迫害使得他的职业生涯尽毁。1952年，他的同性伴侣协同一名同谋一起闯进图灵的房子行窃，但是英国警方的调查结果使得他被控以“明显的猥亵和性颠倒行为”罪（请参看 性悖轨法 ）。他没有申辩，并被定罪。在公审后，他被给予了两个选择：坐牢或 女性荷尔蒙 注射“疗法”（即 化学阉割 ）。他最后选择了雌激素注射 [ 49 ] ，并持续一年。在这段时间里，药物产生了包括乳房不断发育的副作用，也使原本热爱体育运动的图灵在身心上受到极大伤害。1954年，图灵因食用浸过 氰化物 溶液的苹果而死亡。很多人相信他有意吃这苹果，并判决他是自杀。但是他的母亲 Ethel Sara Stoney （ 德语 ： Ethel Sara Turing ） 极力争辩他的死是意外，因为图灵工作室有很多化学品，而他不小心让苹果沾上 氰化物 溶液。
+在2009年9月10日，一份超过3万人的请愿签名，使 英国首相 戈登·布朗 在《 每日电讯报 》撰文，因为 英国政府 当年以同性恋相关罪名起诉图灵并定罪，让他自杀身亡，正式向艾伦·图灵公开道歉。 [ 50 ] [ 51 ] [ 52 ]
+至2012年，有2万多人签名请愿，要求英国政府追授图灵 死后赦免状 ，但被当场拒绝。 英国上议院 的 麦克纳利勋爵 （ 英语 ： Lord McNally ） 解释说：“死后赦免状是不合理的，因为图灵是根据当时的法律被定罪。图灵应当知道他的所做所为会触犯法律，他也应当意识到他有可能会受到迫害。图灵在当时的判罪在今天看来既残酷又荒唐，这无疑是一个悲剧，尤其我们应当知道他对战争胜利做出了卓越的贡献。然而，我们不应当脱离历史背景看待这一事件，在那时的法律这的确是重刑。我们不应该在纠结于把不正确的事强行拨乱反正，我们所能做的是确保今日的社会再也不要回到过去及重复历史。” [ 53 ]
+2013年12月24日， 英国司法部 宣布 英国女王 伊丽莎白二世 赦免 1952年因同性恋行为被定罪的艾伦·图灵，不过有抗议者指出应将此赦免令范围扩大到所有和图灵同时代且受到同样待遇的同性恋者。 [ 54 ] [ 55 ]
+2015年2月23日，图灵的家人向英国首相府邸发出了一份超过50万人签名的请愿书，要求英国政府赦免49,000个和图灵一样因同性恋而获罪的人。2017年1月31日， 艾伦·图灵法案 生效，约49,000位因同性恋定罪者被赦免 [ 56 ] 。
+图灵被授予1946年 大英帝国勋章 。他在1951年还被选为 皇家学会 （FRS）的成员。有几件事情以他的名字命名：
+艾伦图灵研究所 （ 英语 ： Alan Turing Institute ）
+邱奇-图灵论题
+不可解度 ，或图灵度
+图灵不动点组合子
+图灵研究所 （ 英语 ： Turing Institute ）
+自1966年以来， 图灵奖 每年由 计算机协会 颁发给计算机界，为其提供技术或理论贡献。 它被广泛认为是计算机科学世界的最高荣誉，相当于 诺贝尔奖 [ 57 ] 。
+2021年 英格兰银行 选择了图灵作为印刷在新版50英镑纸币背面的人物 [ 58 ] 。
+苹果公司 的商标有时会被误认为是源于图灵自杀时咬下的半个苹果 [ 59 ] ，但该图案的设计师 [ 60 ] 和苹果公司都否认了这一说法 [ 61 ] 。而公司创办人 史蒂夫·乔布斯 在接受 史蒂芬·弗莱 问到此事时说：“上帝啊，我们希望它（LOGO向图灵致敬）是真的。但它只是巧合。”（ "God we wish it were. It's just a coincidence." ） [ 62 ]
+图灵的名字也被 英伟达 用来命名 NVIDIA GeForce 16系列 和 NVIDIA GeForce 20系列 显卡核心名称。
+《 模仿游戏 》：2014年电影，由 本尼迪克特·康伯巴奇 饰演艾伦·图灵。
+著名同性恋和双性恋者
+LGBT自杀人士列表
+[注 1] 原型解码机“ 炸弹 （ 英语 ： Bombe ） ”经数学家 戈登·魏齐曼 （ 英语 ： Gordon Welchman ） 改良。 [ 15 ]
+[1] 艾伦·图灵 在 数学谱系项目 的资料。
+[2] Cooper, Prof S. Barry. The Imitation Game: how Benedict Cumberbatch brought Turing to life . The Guardian. Guardian News and Media Limited. 2014-10-07 [ 2017-04-17 ] . （原始内容 存档 于2021-12-14）.
+[3] Copeland, Jack . Alan Turing: The codebreaker who saved 'millions of lives ' . BBC News Technology. 2012-06-18 [ 2014-10-26 ] . （原始内容 存档 于2018-06-26）.
+[4] A number of sources state that Winston Churchill said that Turing made the single biggest contribution to Allied victory in the war against Nazi Germany. However both The Churchill Centre and Turing's biographer Andrew Hodges have said they know of no documentary evidence to support this claim nor of the date or context in which Churchill supposedly said it, and the Churchill Centre lists it among their Churchill 'Myths', see Schilling, Jonathan. Churchill Said Turing Made the Single Biggest Contribution to Allied Victory . The Churchill Centre: Myths. [ 2015-01-09 ] . （原始内容 存档 于2019-03-05）. and Hodges, Andrew . Part 4: The Relay Race . Update to Alan Turing: The Enigma . [ 2015-01-09 ] . （原始内容 存档 于2019-05-17）. A BBC News profile piece that repeated the Churchill claim has subsequently been amended to say there is no evidence for it. See Spencer, Clare. Profile: Alan Turing . BBC News. 2009-09-11 [ 2018-05-26 ] . （原始内容 存档 于2014-04-20）. Update 13 February 2015
+[5] A.M. Turing. Computing Machinery and Intelligence (PDF) . 1950 [ 2016-04-26 ] . （原始内容 存档 (PDF) 于2022-03-07） （英语） . [1] （ 页面存档备份 ，存于 互联网档案馆 ）
+[6] A suburban runner （ 页面存档备份 ，存于 互联网档案馆 ），The Alan Turing Internet Scrapbook
+[7] Jones, G. James. Alan Turing – Towards a Digital Mind: Part 1 . System Toolbox. 11 December 2001 [ 27 July 2007] . （ 原始内容 存档于3 August 2007）.
+[8] Guildford Dragon NEWS . The Guildford Dragon. 29 November 2012 [ 31 October 2013] . （原始内容 存档 于19 October 2013）.
+[9] Alan Turing OBE, PhD, FRS (1912–1954) . The Old Shirburnian Society. 1 September 2016 [ 10 October 2020] . （ 原始内容 存档于2020-11-04） （英国英语） .
+[10] Hofstadter, Douglas R. Metamagical Themas: Questing for the Essence of Mind and Pattern. Basic Books. 1985: 484 . ISBN 978-0-465-04566-2 . OCLC 230812136 .
+[11] Hodges 1992 ，第34页
+[12] John Aldrich. England and Probability in the Inter-War Years (PDF) . Electronic Journ@l for History of Probability and Statistics. 2009-12, 5 (2): 11 [ 2025-06-07 ] . （ 原始内容 (PDF) 存档于2025-04-06） （英语） . In March 1935 the competition for fellowships was stiff–there were 25 candidates– but Keynes’s motion that Turing be elected was carried unanimously.
+[13] Turing, Dermot . Prof: Alan Turing Decoded . The History Press . 2015: 69 . ISBN 9781841656434 .
+[14] 艾伦·图灵 . On Computable Numbers, with an Application to the Entscheidungsproblem, On Computable Numbers, with an Application to the Entscheidungsproblem (PDF) . 伦敦数学会会报. 1936, s2–42 (1): 230–265. ISSN 0024-6115 . OCLC 4655179592 . Zbl 0016.09701 . doi:10.1112/PLMS/S2-42.1.230 . Wikidata Q25864184 （英语） . (erratum)
+[15] 柯利弗德 2013 ，第190页 harvnb模板错误: 无指向目标: CITEREF柯利弗德2013 ( 帮助 )
+[16] Hodges 1983 ，第138页 harvnb模板错误: 无指向目标: CITEREFHodges1983 ( 帮助 )
+[17] Turing, A.M. Systems of Logic Based on Ordinals. Proceedings of the London Mathematical Society. 1939, s2–45 : 161–228. ISSN 0024-6115 . doi:10.1112/plms/s2-45.1.161 . hdl:21.11116/0000-0001-91CE-3 .
+[18] Turing, Alan . Systems of Logic Based on Ordinals (PhD论文). Princeton University. 1938. doi:10.1112/plms/s2-45.1.161 . hdl:21.11116/0000-0001-91CE-3 . ProQuest 301792588 .
+[19] Turing, A.M. Systems of Logic Based on Ordinals (PDF) . 1938 [ 4 February 2012] . （ 原始内容 (PDF) 存档于23 October 2012）.
+[20] John Von Neumann: The Scientific Genius Who Pioneered the Modern Computer, Game Theory, Nuclear Deterrence, and Much More , Norman MacRae, 1999, American Mathematical Society, Chapter 8
+[21] Briggs, Asa. Britain's Greatest Codebreaker (TV broadcast). UK Channel 4 . 21 November 2011.
+[22] Copeland, Jack . Colossus and the Dawning of the Computer Age. Smith, Michael; Erskine, Ralph (编). Action This Day. Bantam. 2001: 352. ISBN 978-0-593-04910-5 .
+[23] Copeland 2004a ，第217页 harvnb模板错误: 无指向目标: CITEREFCopeland2004a ( 帮助 )
+[24] Clark, Liat. Turing's achievements: codebreaking, AI and the birth of computer science (Wired UK) . Wired. 18 June 2012 [ 31 October 2013] . （原始内容 存档 于2 November 2013）.
+[25] Turing, Alan. The Applications of Probability to Cryptography . c. 1941 [ 25 March 2015] . The National Archives (United Kingdom): HW 25/37. （原始内容 存档 于7 April 2015）.
+[26] Turing, Alan. Paper on Statistics of Repetitions . c. 1941 [ 25 March 2015] . The National Archives (United Kingdom): HW 25/38. （原始内容 存档 于8 April 2015）.
+[27] Vallance, Chris. Alan Turing papers on code breaking released by GCHQ . BBC News. 19 April 2012 [ 20 April 2012] . （原始内容 存档 于4 October 2012）.
+[28] Hodges 1983 ，第208页 harvnb模板错误: 无指向目标: CITEREFHodges1983 ( 帮助 )
+[29] Turing, Alan M. The Prof's Book: Turing's Treatise on the Enigma . 1940. In late 1940 Alan Turing wrote a report describing the methods he and his colleagues at Bletchley Park had used to break into the German Enigma cipher systems. At Bletchley it was known as 'the Prof's Book.' A copy of this handbook was at last released from secrecy by the American National Security Agency in April 1996, under the title Turing's Treatise on the Enigma . Subsequently, a much better original copy was released by the (British) National Archives, box HW 25/3. This also revealed a title which had been lost in the American copy: Mathematical theory of ENIGMA machine . (Though, oddly, the report does not actually have any mathematical theory.) 含有内容需登录查看的页面 ( link )
+[30] Lewin 1978 ，第57页
+[31] Hilton, Peter. A Century of Mathematics in America, Part 1, Reminiscences of Bletchley Park (PDF) . （原始内容 存档 (PDF) 于29 August 2019）.
+[32] Hilton, Peter. NOVA | Transcripts | Decoding Nazi Secrets | PBS . PBS . （原始内容 存档 于29 August 2019）.
+[33] Brown, Anthony Cave . Bodyguard of Lies: The Extraordinary True Story Behind D-Day. The Lyons Press. 1975. ISBN 978-1-59921-383-5 .
+[34] Graham-Cumming, John. An Olympic honour for Alan Turing . The Guardian (London). 10 March 2010 [ 10 December 2016] . （原始内容 存档 于1 December 2016）.
+[35] Butcher, Pat. In Praise of Great Men . Globe Runner. 14 September 2009 [ 23 June 2012] . （原始内容 存档 于18 August 2013）.
+[36] Hodges, Andrew . Alan Turing: a short biography . Alan Turing: The Enigma. [ 12 June 2014] . （原始内容 存档 于14 September 2013）.
+[37] Graham-Cumming, John . Alan Turing: a short biography . The Guardian. 10 March 2010 [ 12 June 2014] . （原始内容 存档 于8 November 2014）.
+[38] Butcher, Pat. Turing as a runner . The MacTutor History of Mathematics archive. December 1999 [ 12 June 2014] . （原始内容 存档 于13 November 2014）.
+[39] Kottke, Jason. Turing was an excellent runner . kottke.org. [ 2022-07-12 ] . （原始内容 存档 于2021-06-09）.
+[40] See for example Richelson, Jeffery T. A Century of Spies: Intelligence in the Twentieth Century . New York: Oxford University Press. 1997: 296 . and Hartcup, Guy . The Effect of Science on the Second World War. Basingstoke, Hampshire: Macmillan Press. 2000: 96–99.
+[41] Hinsley, Harry, The Influence of ULTRA in the Second World War , 1996 [1993] [ 2022-07-12 ] , （ 原始内容 存档于2015-04-06） Transcript of a lecture given on Tuesday 19 October 1993 at Cambridge University
+[42] Collins, Jeremy. Alan Turing and the Hidden Heroes of Bletchley Park: A Conversation with Sir John Dermot Turing . nationalww2museum.org. New Orleans: The National WWII Museum. 24 June 2020 [ 24 August 2021] . （ 原始内容 存档于2021-12-02）.
+[43] Alan Turing: Colleagues share their memories . BBC News. 23 June 2012 [ 21 June 2018] . （原始内容 存档 于7 July 2018）.
+[44] This month in history: Alan Turing and the Enigma code . thegazette.co.uk. [ 6 February 2019] . （原始内容 存档 于26 June 2019）.
+[45] Bletchley Park Unveils Statue Commemorating Alan Turing . [ 2007-06-30 ] . （原始内容 存档 于2007-06-30）.
+[46] "Control Mechanism For Biological Pattern Formation Decoded" ScienceDaily , 30 November 2006
+[47] Turing's Last, Lost work . [ 2011-11-28 ] . （ 原始内容 存档于2003-08-23）.
+[48] Turing at 100: Legacy of a universal mind . Nature. 2012-02-22 [ 2012-06-23 ] . （原始内容 存档 于2021-04-12）.
+[49] 電腦科學之父 慘遭去勢 (PDF) . 中国时报 (国立台中教育大学). 2009-09-14 [ 2012-06-23 ] . （ 原始内容 (PDF) 存档于2016-03-04）.
+[50] Gordon Brown. Treatment of Alan Turing was “appalling” - PM . number10. 2009-09-10. （ 原始内容 存档于2011-07-03） （英语） .
+[51] matrix. 英国首相布朗正式向艾伦图灵道歉 . Solidot. 2009-09-10 [ 2022-03-26 ] . （原始内容 存档 于2021-08-15） （中文（简体）） .
+[52] 不堪同性戀罪名數學家服毒自殺英相道歉還杜林清白 . 中国时报 (财团法人台湾红丝带基金会). 2009-09-14 [ 2012-06-23 ] . [ 永久失效链接 ]
+[53] Widespread Celebrations But No Pardon For Turing . I Programmer. 2012-02-06 [ 2012-06-23 ] . （原始内容 存档 于2013-07-25）.
+[54] 因同性恋获罪 英国特赦刷污名 （ 页面存档备份 ，存于 互联网档案馆 ），中央社，2013年12月24日
+[55] Jethro Mullen,"Alan Turing, British code-breaker castrated for homosexuality, receives pardon" [2] （ 页面存档备份 ，存于 互联网档案馆 ）,CNN.com,December 24, 2013 -- Updated 1205 GMT (2005 HKT).
+[56] 《圖靈法案》生效英數萬名歷史罪人被赦免 . BBC新闻. 2017-01-31 [ 2017-02-03 ] . （原始内容 存档 于2017-02-02） （中文（繁体）） .
+[57] Geringer, Steven. ACM'S Turing Award Prize Raised To $250,000 . ACM press release. 2007-07-27 [ 2008-10-16 ] . （ 原始内容 存档于2008-12-30）.
+[58] 登上£50新英鎊的圖靈：從「電腦之父」到同性戀平反的鈔票意義 . [ 2019-07-16 ] . （原始内容 存档 于2021-08-15）.
+[59] Logos that became legends: Icons from the world of advertising . The Independent (London: www.independent.co.uk). 2008-01-04 [ 2009-09-14 ] . （原始内容 存档 于2009-10-03）.
+[60] Interview with Rob Janoff, designer of the Apple logo . creativebits. [ 2009-09-14 ] . （ 原始内容 存档于2017-10-24）.
+[61] Leavitt 2007 ，第280页
+[62] " Science & Environment - Alan Turing: Separating the man and the myth " . BBC . 2012-06-21 [ 2012-06-23 ] . （原始内容 存档 于2012-06-23）.
+Alexander, C. Hugh O'D., Cryptographic History of Work on the German Naval Enigma , The National Archives, Kew, Reference HW 25/1, 1945 [ 2012-06-22 ] , （原始内容 存档 于2022-02-17） （英语）
+Copeland, B. Jack, Colossus: Its Origins and Originators, IEEE Annals of the History of Computing]], 2004, 26 (4): 38–45, doi:10.1109/MAHC.2004.26 （英语）
+Copeland, B. Jack, Colossus: The secrets of Bletchley Park's code-breaking computers, Oxford University Press, 2006, ISBN 978-0-19-284055-4 （英语）
+Gannon, Paul, Colossus: Bletchley Park's Greatest Secret, London: Atlantic Books, 2006-01-10 [2006], ISBN 978-184-354-330-5 （英语）
+Hodges, Andrew, Alan Turing: the enigma, London: Burnett Books, 1992 [1983], ISBN 0-04-510060-8 （英语）
+Leavitt, David, The man who knew too much: Alan Turing and the invention of the computer, Phoenix, 2007, ISBN 978-0-7538-2200-5 （英语）
+Lewin, Ronald, Ultra Goes to War: The Secret Story, Classic Military History Classic Penguin, London, England: Hutchinson & Co, 19782001, ISBN 978-1-56649-231-7 （英语）
+Mahon, A.P., The History of Hut Eight 1939–1945 , UK National Archives Reference HW 25/2, 1945 [ 2009-12-10 ] , （原始内容 存档 于2022-02-09） （英语）
+Oakley, Brian (编), The Bletchley Park War Diaries: July 1939—August 1945 2.6, Wynne Press, 2006 （英语）
+O'Connell, H; Fitzgerald, M, Did Alan Turing have Asperger's syndrome?, Irish Journal of Psychological Medicine (Irish Institute of Psychological Medicine), 2003, 20 : 28–31, ISSN 0790-9667 （英语）
+Andrew Hodges; Douglas Hofstadter. Alan Turing: The Enigma: The Book That Inspired the Film "The Imitation Game". Princeton University Press . 2014-11-10. ISBN 978-069-116-472-4 （英语） .
+柯利弗德·皮寇弗 ; 陈以礼（翻译）. The Math Book:From Pythagoras to the 57th Dimension, 250 Milestones in the History of Mathematics [数学之书]. 时报文化 . 2013-04-16. ISBN 978-957-135-699-0 （中文（繁体）） .
+2012艾伦·图灵年 （ 页面存档备份 ，存于 互联网档案馆 ）
+CiE 2012：图灵诞辰百年会议 （ 页面存档备份 ，存于 互联网档案馆 ）
+图灵相册 （ 页面存档备份 ，存于 互联网档案馆 ）
+Alan Turing 美国国会图书馆 的 存档 ，存档日期2011-08-27
+AlanTuring.net – Turing Archive for the History of Computing
+Jones, G. James. Alan Turing – Towards a Digital Mind: Part 1 . System Toolbox (The Binary Freedom Project). 2001-12-11. （ 原始内容 存档于2007-08-03）.
+谜样的计算机科学之父 （ 页面存档备份 ，存于 互联网档案馆 ） - 中央研究院数学所、台大数学系
+艾伦·图灵在数学家族谱网站上的条目 （ 页面存档备份 ，存于 互联网档案馆 ）
+艾伦·图灵文件数字化项目 [ 失效链接 ]
+Related Articles

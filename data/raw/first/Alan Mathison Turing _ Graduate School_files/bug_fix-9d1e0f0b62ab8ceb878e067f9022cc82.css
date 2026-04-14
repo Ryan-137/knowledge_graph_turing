@@ -1,0 +1,9 @@
+.layout-above-section-spacing-none .node__content > .layout[class*=background]:last-child, .layout-above-section-spacing-none .node__content > .layout[style*=background]:last-child, .layout-below-section-spacing-none .node__content > .layout[class*=background]:last-child, .layout-below-section-spacing-none .node__content > .layout[style*=background]:last-child, .layout-above-section-spacing-small .node__content > .layout[class*=background]:last-child, .layout-above-section-spacing-small .node__content > .layout[style*=background]:last-child, .layout-below-section-spacing-small .node__content > .layout[class*=background]:last-child, .layout-below-section-spacing-small .node__content > .layout[style*=background]:last-child, .layout-above-section-spacing-medium .node__content > .layout[class*=background]:last-child, .layout-above-section-spacing-medium .node__content > .layout[style*=background]:last-child, .layout-below-section-spacing-medium .node__content > .layout[class*=background]:last-child, .layout-below-section-spacing-medium .node__content > .layout[style*=background]:last-child, .layout-above-section-spacing-large .node__content > .layout[class*=background]:last-child, .layout-above-section-spacing-large .node__content > .layout[style*=background]:last-child, .layout-below-section-spacing-large .node__content > .layout[class*=background]:last-child, .layout-below-section-spacing-large .node__content > .layout[style*=background]:last-child {
+    margin-bottom: 0;
+}
+
+.utility-menu a[href^="https"]:not(.ext) {
+  content: " ";
+  width: auto;
+  display: inline-block;
+}

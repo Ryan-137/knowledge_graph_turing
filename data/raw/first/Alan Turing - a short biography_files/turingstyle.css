@@ -1,0 +1,12 @@
+
+body {font-family: palatino}
+
+a:hover {  text-decoration: underline}
+a {  text-decoration: none}
+
+.kksubtitle { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-weight: bold; color: #333333; text-decoration: none; }
+.kksubtitle a { text-decoration: none; color: #333333; }
+.kksubtitle a:hover { text-decoration: none; color: #333333; }
+.kkline { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; color: #333333; text-decoration: none; font-weight: normal; }
+.kkline a { text-decoration: none; color: #333333; }
+.kkline a:hover { text-decoration: underline; color: #333333; }

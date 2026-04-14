@@ -1,0 +1,103 @@
+
+.page-node-4946 div.breadcrumb,
+.page-node-4946 .highlighted,
+.page-node-4946 #block-gradschool-page-title,
+.page-node-4946 #block-gradschool-local-tasks {
+  background-color: #1d1d1d;
+  color: #fff;
+}
+
+
+.page-node-4946 div.breadcrumb a,
+.page-node-4946 .highlighted a,
+.page-node-4946 #block-gradschool-page-title a,
+.page-node-4946 #block-gradschool-local-tasks a {
+  color: #fff;
+}
+
+
+.page-node-4946 .background-color-black.section-cut-off:after {
+  height: 0;
+}
+
+@media (min-width: 67.5rem) {
+  .page-node-4946 .background-color-black.section-cut-off:after {
+    height: 15%;
+  }
+}
+
+@media (min-width: 90rem) {
+  .page-node-4946 .background-color-black.section-cut-off:after {
+    height: 30%;
+  }
+}
+
+
+.page-node-4946 div.breadcrumb {
+  margin-bottom: 0;
+}
+
+
+.page-node-4946 .alert-status {
+  margin-bottom: 0;
+}
+
+
+.page-node-4946 .alert-status a {
+  color: #121212;
+}
+
+
+.page-node-4946 #block-gradschool-page-title,
+.page-node-4946 #block-gradschool-local-tasks {
+  position: relative;
+}
+
+.page-node-4946 #block-gradschool-page-title:before,
+.page-node-4946 #block-gradschool-local-tasks:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #121212;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  width: 100vw;
+  z-index: -1;
+  background-color: #1d1d1d;
+}
+
+
+.page-node-4946 #block-gradschool-page-title h1,
+.page-node-4946 #block-gradschool-local-tasks h1 {
+  margin-bottom: 0;
+}
+
+
+.page-node-4861 #block-gradschool-local-tasks,
+.page-node-4946 #block-gradschool-local-tasks {
+  padding-top: 2rem;
+}
+
+
+.page-node-4946 #block-gradschool-local-tasks a {
+  color: #fff;
+}
+
+
+.page-node-4946 #block-gradschool-local-tasks a:hover,
+.page-node-4946 #block-gradschool-local-tasks a:focus {
+  color: #121212;
+}
+
+
+.page-node-4946 #block-gradschool-local-tasks a.is-active {
+  color: #121212;
+}
+
+
+.page-node-4946 #block-gradschool-local-tasks .nav-tabs {
+  border-bottom: 1px solid #555;
+}

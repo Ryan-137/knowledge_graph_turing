@@ -1,0 +1,13 @@
+ul.list-orange-bottom-border {
+	padding: 0;
+	list-style: none;
+}
+ul.list-orange-bottom-border > li {
+	padding-top: .85rem;
+	padding-bottom: .85rem;
+	border-bottom: 1px solid var(--color-brand-70);
+}
+
+.text-color-white {
+	color: var(--color-white);
+}

@@ -1,0 +1,138 @@
+/* === HP SETTINGS === */
+
+.pg_index .theme-homepage-layout .hero-row.light-background {
+    background-color: #F6F3EE;
+}
+
+.pg_index .theme-homepage-layout .hero-row .article-issue-img img {
+    width: 240px;
+    height: auto;
+}
+
+@media (min-width: 599px) {
+    .pg_index .theme-homepage-layout .hero-row .home-issue-info .widget-dynamic-inner-wrap {
+        position: relative;
+        min-height: 400px;
+    }
+
+    .pg_index .theme-homepage-layout .hero-row .home-issue-info .widget-dynamic-inner-wrap .widget-instance-rstb_home-self-serve-content-publisher-info {
+        position: absolute;
+        left: 240px;
+        top: 40%;
+    }
+}
+
+.pg_index .theme-homepage-layout .button,
+.pg_index .theme-homepage-layout .widget-dynamic-browse a:link {
+    background-color: #D31245;
+    color: #FFFFFF;
+    border: 1px solid #D31245;
+    box-shadow: unset;
+}
+
+.pg_index .theme-homepage-layout .widget-dynamic-browse a:link {
+    padding: .5rem 1rem;
+}
+
+.pg_index .theme-homepage-layout .button:hover,
+.pg_index .theme-homepage-layout .widget-dynamic-browse a:hover {
+    background-color: #ba0c2f;
+    color: #FFF;
+    border-color: #ba0c2f;
+}
+
+.pg_index .theme-homepage-layout .widget-SelectableContentList .widget-dynamic-heading {
+    font-size: 1.5rem;
+    border-bottom: 4px solid #55ba46;
+    padding-bottom: 0.5rem;
+}
+
+.pg_index .theme-homepage-layout .home-card-layout .widget-SelectableContentList {
+    border: unset;
+}
+
+.pg_index .theme-homepage-layout .home-card-layout .widget-SelectableContentList .widget-dynamic-content {
+    padding: unset;
+}
+
+.pg_index .theme-homepage-layout .home-card-layout .widget-SelectableContentList .widget-dynamic-content.advanced-view .widget-dynamic-entry-wrap {
+    display: grid;
+    grid-column-gap: 1.5rem;
+    grid-row-gap: 1.5rem;
+    align-items: stretch;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    }
+
+.pg_index .theme-homepage-layout .home-card-layout .widget-SelectableContentList .widget-dynamic-content.advanced-view .widget-dynamic-entry-wrap .widget-dynamic-entry {
+    border: 1px solid #d9d9d9;
+    border-radius: .25rem;
+    background-color: #F9F9F9;
+}
+
+.pg_index .theme-homepage-layout .home-card-layout .widget-SelectableContentList .widget-dynamic-content.advanced-view .widget-dynamic-entry-wrap .widget-dynamic-entry .widget-dynamic-journal-image-wrap {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+}
+
+.pg_index .theme-homepage-layout .home-card-layout .widget-SelectableContentList .widget-dynamic-content.advanced-view .widget-dynamic-entry-wrap .widget-dynamic-entry .widget-dynamic-journal-image-wrap img {
+    width: 100%;
+}
+
+.pg_index .theme-homepage-layout .home-card-layout .widget-SelectableContentList .widget-dynamic-content.advanced-view .widget-dynamic-entry-wrap .widget-dynamic-entry .widget-dynamic-content-wrap {
+    width: unset;
+    padding: 1rem;
+}
+
+.pg_index .theme-homepage-layout .home-card-layout .widget-SelectableContentList .widget-dynamic-entry-wrap .widget-dynamic-entry a {
+    line-height: 1.3;
+    color: #2a2a2a;
+}
+
+
+.pg_index .theme-homepage-layout .button.outline,
+.pg_index .theme-homepage-layout .widget-dynamic-browse a:link {
+    background-color: #FFFFFF;
+    color: #D31245;
+    border: 1px solid #D31245;
+    box-shadow: unset;
+}
+
+.pg_index .theme-homepage-layout .widget-dynamic-browse a:link {
+    padding: .5rem 1rem;
+}
+
+.pg_index .theme-homepage-layout .button.outline:hover,
+.pg_index .theme-homepage-layout .widget-dynamic-browse a:hover {
+    background-color: #D31245;
+    color: #FFFFFF;
+}
+
+.pg_index .theme-homepage-layout div[class*=home-row]>.widget-dynamic__header {
+    text-align: left;
+}
+
+.pg_index .theme-homepage-layout div[class*=home-row]>.widget-dynamic__header h2 {
+    font-size: 1.5rem;
+    border-bottom: 4px solid #55ba46;
+    padding-bottom: 0.5rem;
+}
+
+.pg_index .theme-homepage-layout [class*=home-row] .widget-SelfServeContent:not([class*=content-ad]) {
+    background-color: #F9F9F9;
+    border-radius: .25rem;
+}
+
+.pg_index .theme-homepage-layout [class*=home-row] .widget-ArticleListNewAndPopular>.new-and-popular {
+    padding: 1rem 1.5rem 1.5rem 1.5rem;
+ 
+
+}
+
+.pg_index .theme-homepage-layout [class*=home-row] .widget-ArticleListNewAndPopular>.new-and-popular .widget-dynamic-title {
+    font-size: 1.5rem;
+    border-bottom: 4px solid #55ba46;
+    padding-bottom: 0.5rem;
+ 
+
+}

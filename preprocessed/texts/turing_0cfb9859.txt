@@ -1,2 +1,0 @@
-turing
-[PDF extraction skipped: install pypdf or PyPDF2 to enable PDF text extraction.]

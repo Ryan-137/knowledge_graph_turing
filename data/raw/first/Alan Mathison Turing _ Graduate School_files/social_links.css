@@ -1,0 +1,19 @@
+.ps-social-links--platforms {
+  padding-left: 0;
+}
+
+.ps-social-links--platforms.horizontal li {
+  display: inline-block;
+  text-align: center;
+  padding: .2em .35em;
+}
+
+.ps-social-links--platforms.vertical li {
+  list-style-type: none;
+  margin: 0 0 .5em 0
+}
+
+.ps-social-links--platforms.vertical li a img {
+  vertical-align: middle;
+  margin-right: .5em;
+}

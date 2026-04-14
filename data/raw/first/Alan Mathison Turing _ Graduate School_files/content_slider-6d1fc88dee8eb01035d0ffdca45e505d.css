@@ -1,0 +1,25 @@
+.block-content-list .content-list-slider .content-list-items .content-list-item:not(.description) {
+    background-color: white;
+    color: #212529;
+}
+
+.block-content-list .content-list-slider .content-list-items .content-list-item:not(.description) a {
+    color: #212529;
+}
+
+.block-content-list .content-list-slider .content-list-items .content-list-item:has(.field--name-title a):hover,
+.block-content-list .content-list-slider .content-list-items .content-list-item:has(.field--name-title a):focus {
+    border-color: var(--color-neutral-10);
+}
+
+.block-ps-page-list .content-list-slider .feature-is-3x4 .field--name-field-ps-featured-image {
+    max-width: 100%;
+}
+
+.block-ps-page-list .field--name-title a:after {
+    margin-top: 0;
+}
+
+.background-color-dark-gray .block-content-list .content-list-slider .content-list-items .field--name-title a::after {
+   background-color: var(--color-neutral-10);
+}

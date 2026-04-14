@@ -1,0 +1,64 @@
+{
+  "generated_at": "2026-04-14T04:09:05.812370+00:00",
+  "document_count": 11,
+  "sentence_count": 2484,
+  "error_count": 0,
+  "doc_sentence_counts": [
+    {
+      "doc_id": "doc_0001",
+      "source_id": "src_f01_bletchley_park",
+      "sentence_count": 72
+    },
+    {
+      "doc_id": "doc_0002",
+      "source_id": "src_f02_cmi_pdf",
+      "sentence_count": 235
+    },
+    {
+      "doc_id": "doc_0003",
+      "source_id": "src_f03_kings_college",
+      "sentence_count": 74
+    },
+    {
+      "doc_id": "doc_0004",
+      "source_id": "src_f04_princeton_graduate_school",
+      "sentence_count": 54
+    },
+    {
+      "doc_id": "doc_0005",
+      "source_id": "src_f05_short_biography",
+      "sentence_count": 209
+    },
+    {
+      "doc_id": "doc_0006",
+      "source_id": "src_f06_university_of_manchester",
+      "sentence_count": 28
+    },
+    {
+      "doc_id": "doc_0007",
+      "source_id": "src_f07_morphogenesis_royal_society",
+      "sentence_count": 27
+    },
+    {
+      "doc_id": "doc_0008",
+      "source_id": "src_f08_turing_pdf",
+      "sentence_count": 586
+    },
+    {
+      "doc_id": "doc_0009",
+      "source_id": "src_s01_wikipedia",
+      "sentence_count": 1063
+    },
+    {
+      "doc_id": "doc_0010",
+      "source_id": "src_s02_britannica",
+      "sentence_count": 2
+    },
+    {
+      "doc_id": "doc_0011",
+      "source_id": "src_s03_science_industry_museum",
+      "sentence_count": 134
+    }
+  ],
+  "errors": []
+}

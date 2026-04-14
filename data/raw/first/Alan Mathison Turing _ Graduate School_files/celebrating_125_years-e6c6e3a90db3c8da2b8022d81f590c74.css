@@ -1,0 +1,131 @@
+:root {
+    --grad-school-purple: #60005B;
+}
+
+.page-node-25611 h1.page-title,
+.page-node-26441 h1.page-title {
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    clip: rect(1px,1px,1px,1px);
+}
+
+.page-node-25611 div.breadcrumb {
+    display: none;
+}
+
+.page-node-25611 .block-ps-image .size--extra-small img {
+    border-radius: 50%;
+}
+
+h1.page-title div.featured-icon {
+    max-width: 9rem;
+}
+
+.block-page-title-block img {
+      height: 2.75rem;
+    width: auto;
+    max-width: 9rem;
+}
+
+.section-purple-bg-cut-off-bottom {
+    background-color: var(--grad-school-purple);
+    padding: 2rem;
+    position: relative;
+    z-index: 2;
+    color: var(--color-white);
+}
+
+.section-purple-bg-cut-off-bottom a {
+    color: var(--color-neutral-5);
+}
+
+.section-purple-bg-cut-off-bottom figure {
+    margin-bottom: 0;
+}
+
+@media (max-width: 61.938rem) {
+    .section-purple-bg-cut-off-bottom .figure-caption {
+        color: var(--color-neutral-5);
+    }
+}
+
+@media (min-width: 62rem) {
+    .section-purple-bg-cut-off-bottom:after {
+        content: "";
+        display: block;
+        position: absolute;
+        width: 100%;
+        height: 23%;
+        bottom: 0;
+        left: 0;
+        background-color: var(--color-white);
+        z-index: -1;
+    }
+}
+
+@media (max-width: 75rem) {
+	.section-purple-bg-cut-off-bottom:has(.block-ps-image-grid):after {
+		height: 0;
+	}
+}
+
+.section-viget-icon .block[class*=background-color-] {
+    height: 100%;
+    background-image: url("data:image/svg+xml,%3Csvg width='44' height='50' viewBox='0 0 44 50' fill='none' xmlns='http://www.w3.org/2000/svg'%3E %3Cg clip-path='url(%23clip0_21_38)'%3E %3Cpath d='M44 25C31.5886 23.3942 22.0004 12.8179 22.0004 0C22.0004 12.8179 12.4114 23.3942 0 25C12.4114 26.6058 22.0004 37.1828 22.0004 50C22.0004 37.1821 31.5886 26.6058 44 25Z' fill='%23F58025'/%3E %3C/g%3E %3Cdefs%3E %3CclipPath id='clip0_21_38'%3E %3Crect width='44' height='50' fill='white'/%3E %3C/clipPath%3E %3C/defs%3E %3C/svg%3E ");
+    background-repeat: no-repeat;
+    background-position: 1rem 1rem;
+    padding-top: 4.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.section-viget-hero-banner {
+    padding-top: 5rem;
+    padding-bottom: 5rem!important;
+    position: relative;
+    background: #000 url("/sites/g/files/toruqf846/files/2025-10/Viget-Hero-Banner.svg") no-repeat center center;
+    background-size: cover;
+    z-index: 2;
+    color: var(--color-white);
+}
+
+.section-viget-hero-banner a {
+	color: var(--color-white);
+}
+
+.page-node-26441 .section-viget-hero-banner {
+    padding-top: 11rem;
+}
+
+.section-viget-hero-banner .block-content-list .content-list-slider .btn-next path,
+.section-viget-hero-banner .block-content-list .content-list-slider .btn-prev path {
+    fill: var(--color-white);
+}
+
+.section-viget-hero-banner .block-content-list .content-list-slider .btn-next path,
+.section-viget-hero-banner .block-content-list .content-list-slider .btn-prev path {
+    fill: var(--color-white);
+}
+
+.section-viget-hero-banner .block-content-list .content-list-slider .btn-next:hover path,
+.section-viget-hero-banner .block-content-list .content-list-slider .btn-next:focus path,
+.section-viget-hero-banner .block-content-list .content-list-slider .btn-prev:hover path,
+.section-viget-hero-banner .block-content-list .content-list-slider .btn-prev:focus path {
+    fill: var(--color-action-70);
+}
+
+blockquote:after {
+    bottom: auto;
+    top: 3.8rem;
+}
+
+.main-content .node__content .layout[style*=background]:last-child .block-background-color-white {
+    margin-top: 3rem;
+}
+
+.section-viget-hero-banner .block-content-list .field--name-field-ps-featured-image .featured-icon,
+.section-viget-hero-banner .block-content-list div.featured-icon:after {
+	display: none;
+}

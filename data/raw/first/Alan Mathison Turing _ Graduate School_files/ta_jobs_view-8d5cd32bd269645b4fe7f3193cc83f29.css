@@ -1,0 +1,126 @@
+.view-gs-ta-job-position-listing .view-content ul {
+	list-style: none;
+	margin:0;
+	padding: 0;
+}
+
+.view-gs-ta-job-position-listing .view-content div ul > li {
+  padding: 2.5rem 2rem;
+	border-bottom: 1px solid #ddd;
+}
+
+/*.view-gs-ta-job-position-listing .view-content div > ul li */
+.view-gs-ta-job-position-listing .view-content .views-field-nothing .field-content {
+
+	grid-column-gap: 2rem;
+	
+	@media(min-width: 62rem) {
+		display: grid; 
+		grid-template-columns: 6fr 4fr;
+		grid-column-gap: 4rem;
+		
+	 /* .views-field-title,
+	 .views-field-field-ps-body,
+	 .views-field-field-ps-course-instructor,
+	 .views-field-field-gs-ta-job-contact {
+			grid-column: 1;
+		} */
+	}
+}
+
+.view-gs-ta-job-position-listing .view-content .views-field-nothing ul {
+	padding: 0;
+	margin: 0;
+}
+
+.view-gs-ta-job-position-listing .view-content .views-field-nothing ul li {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+.view-gs-ta-job-position-listing .field--name-field-gs-ta-position-hours,
+.view-gs-ta-job-position-listing .field--name-field-gs-ta-position-salary,
+.view-gs-ta-job-position-listing .paragraph--type--gs-contact-ta-job .field--label-above {
+	display: flex;
+}
+
+.view-gs-ta-job-position-listing .paragraph--type--gs-contact-ta-job {
+	margin-bottom: 1rem;
+	
+	@media(min-width: 70rem) {
+		display: flex;
+		margin-bottom: 0;
+		
+	}
+}
+
+	.field--name-field-gs-contact-ta-job-name,
+		.field--name-field-gs-contact-ta-job-email,
+		.field--name-field-gs-contact-ta-job-phone {
+			margin-right: 1rem;
+		}
+
+.view-gs-ta-job-position-listing .paragraph--type--gs-contact-ta-job .field--label-above .field__label,
+.view-gs-ta-job-position-listing .field--name-field-gs-ta-position-salary .field__label, 
+.view-gs-ta-job-position-listing .field--name-field-gs-ta-position-duties .field__label,
+.view-gs-ta-job-position-listing .field--name-field-gs-ta-position-hours .field__label,
+.view-gs-ta-job-position-listing .field--name-field-gs-ta-position-background .field__label
+{
+	margin-right: 5px;
+	
+	&:after {
+		content:':';
+		display: inline;
+		
+	}
+}
+
+.view-gs-ta-job-position-listing .ta-course-instructor,
+.view-gs-ta-job-position-listing .field--name-field-gs-ta-position-salary {
+	margin-bottom: 1rem;
+}
+
+.view-gs-ta-job-position-listing .ta-course-contact p {
+	font-family: var(--fontset3-title);
+    font-size: 1.25rem;
+    margin-bottom: .5rem;
+}
+
+.view-gs-ta-job-position-listing .view-content .views-field-title {
+	font-weight: 600;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.view-gs-ta-job-position-listing .views-field-nothing-1 {
+	font-size: .875rem;
+	margin: 1.5rem 0;
+}
+
+
+.view-gs-ta-job-position-listing .view-content .views-field-nothing .ta-job-info .item-list > ul li:not(:first-child) {
+	border-top: 1px solid #ddd;
+	padding-top: 1rem;
+}
+
+.view-gs-ta-job-position-listing .view-content .views-field-nothing .ta-job-info .item-list ul li .field__item li {
+	border: none;
+	padding: 0;
+}
+
+
+/*.view-gs-ta-job-position-listing .field--name-field-gs-contact-ta-job-name,
+.view-gs-ta-job-position-listing .field--name-field-gs-contact-ta-job-email,
+.view-gs-ta-job-position-listing .field--name-field-gs-contact-ta-job-phone,
+.view-gs-ta-job-position-listing .field--name-field-gs-ta-position-hours,
+.view-gs-ta-job-position-listing .field--name-field-gs-ta-position-salary,
+.view-gs-ta-job-position-listing .views-field-field-ps-course-instructor 
+{
+	display: flex;
+} 
+
+.view-gs-ta-job-position-listing .views-field-field-gs-ta-job-contact {
+	background: #efefef;
+	padding: 1.5rem;
+} */

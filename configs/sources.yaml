@@ -1,0 +1,214 @@
+sources:
+  - source_id: src_f01_bletchley_park
+    title: "10 things to know about Alan Turing"
+    tier: 1
+    authority_level: "官方机构"
+    source_type: "html"
+    original_url: "https://www.bletchleypark.org.uk/our-story/10-things-to-know-about-alan-turing/"
+    raw_path: "data/raw/first/10 things to know about Alan Turing _ Bletchley Park.htm"
+    organization: "Bletchley Park"
+    topic_focus:
+      - "二战工作背景"
+      - "Bletchley Park 经历"
+      - "人物生平补充"
+    suggested_usage:
+      - "WORKED_AT"
+      - "事件抽取"
+      - "生平事实佐证"
+    verification_status: "已确认"
+    notes: "一级来源，可作为图灵战时经历的重要证据。"
+
+  - source_id: src_f02_cmi_pdf
+    title: "Computing Machinery and Intelligence"
+    tier: 1
+    authority_level: "原始论文"
+    source_type: "pdf"
+    original_url: "待补录"
+    raw_path: "data/raw/first/5_turing_computing_machinery_and_intelligence.pdf"
+    organization: "原始论文"
+    topic_focus:
+      - "1950 年论文"
+      - "imitation game"
+      - "论文元数据"
+    suggested_usage:
+      - "AUTHORED"
+      - "PROPOSED"
+      - "论文事件抽取"
+    verification_status: "已确认"
+    notes: "一级来源，是 1950 年核心论文证据。"
+
+  - source_id: src_f03_kings_college
+    title: "Alan Mathison Turing (1912-54)"
+    tier: 1
+    authority_level: "大学档案"
+    source_type: "html"
+    original_url: "https://www.kings.cam.ac.uk/alan-mathison-turing-1912-54"
+    raw_path: "data/raw/first/Alan Mathison Turing (1912-54) _ King's College Cambridge.htm"
+    organization: "King's College Cambridge"
+    topic_focus:
+      - "教育经历"
+      - "人物档案"
+      - "剑桥阶段"
+    suggested_usage:
+      - "STUDIED_AT"
+      - "教育事件抽取"
+      - "人物属性补充"
+    verification_status: "已确认"
+    notes: "一级来源，可作为剑桥求学经历的主证据。"
+
+  - source_id: src_f04_princeton_graduate_school
+    title: "Alan Mathison Turing"
+    tier: 1
+    authority_level: "大学档案"
+    source_type: "html"
+    original_url: "https://gradschool.princeton.edu/about/viget-honor-roll/alan-mathison-turing"
+    raw_path: "data/raw/first/Alan Mathison Turing _ Graduate School.htm"
+    organization: "Princeton Graduate School"
+    topic_focus:
+      - "博士阶段"
+      - "教育经历"
+      - "学位信息"
+    suggested_usage:
+      - "STUDIED_AT"
+      - "教育事件抽取"
+      - "人物时间线"
+    verification_status: "已确认"
+    notes: "一级来源，可补足 Princeton 阶段信息。"
+
+  - source_id: src_f05_short_biography
+    title: "Alan Turing - a short biography"
+    tier: 1
+    authority_level: "传记页面"
+    source_type: "html"
+    original_url: "待补录"
+    raw_path: "data/raw/first/Alan Turing - a short biography.htm"
+    organization: "待复核"
+    topic_focus:
+      - "人物生平"
+      - "时间线补充"
+      - "综合介绍"
+    suggested_usage:
+      - "人物摘要补充"
+      - "时间线辅助校验"
+    verification_status: "待复核"
+    notes: "文件已收集，但站点权威性需要人工再确认，不建议优先压过官方机构页。"
+
+  - source_id: src_f06_university_of_manchester
+    title: "Alan Turing at The University of Manchester (Digital 60)"
+    tier: 1
+    authority_level: "大学机构页面"
+    source_type: "html"
+    original_url: "https://curation.cs.manchester.ac.uk/digital60/www.digital60.org/about/biographies/alanturing/index.html"
+    raw_path: "data/raw/first/Alan Turing at The University of Manchester (Digital 60).htm"
+    organization: "The University of Manchester"
+    topic_focus:
+      - "Manchester 阶段"
+      - "工作经历"
+      - "纪念信息"
+    suggested_usage:
+      - "WORKED_AT"
+      - "工作事件抽取"
+      - "人物后期时间线"
+    verification_status: "已确认"
+    notes: "一级来源，可补足 Manchester 工作与纪念信息。"
+
+  - source_id: src_f07_morphogenesis_royal_society
+    title: "The chemical basis of morphogenesis"
+    tier: 1
+    authority_level: "学会论文页"
+    source_type: "html"
+    original_url: "https://royalsocietypublishing.org/rstb/article/237/641/37/112910/The-chemical-basis-of-morphogenesis"
+    raw_path: "data/raw/first/The chemical basis of morphogenesis _ Philosophical Transactions of the Royal Society B _ The Royal Society.htm"
+    organization: "The Royal Society"
+    topic_focus:
+      - "1952 年论文"
+      - "morphogenesis"
+      - "论文元数据"
+    suggested_usage:
+      - "AUTHORED"
+      - "论文事件抽取"
+      - "发表年份与标题规范化"
+    verification_status: "已确认"
+    notes: "一级来源，是 1952 年核心论文证据。"
+
+  - source_id: src_f08_turing_pdf
+    title: "turing.pdf"
+    tier: 1
+    authority_level: "PDF 资料"
+    source_type: "pdf"
+    original_url: "待补录"
+    raw_path: "data/raw/first/turing.pdf"
+    organization: "待复核"
+    topic_focus:
+      - "待识别"
+    suggested_usage:
+      - "待确认后使用"
+    verification_status: "待复核"
+    notes: "已存在原始 PDF，但内容来源和权威性需人工确认后再纳入主证据。"
+
+  - source_id: src_s01_wikipedia
+    title: "Alan Turing"
+    tier: 2
+    authority_level: "权威百科"
+    source_type: "html"
+    original_url: "https://en.wikipedia.org/wiki/Alan_Turing"
+    raw_path: "data/raw/second/Alan Turing - Wikipedia.htm"
+    organization: "Wikipedia"
+    topic_focus:
+      - "综合生平"
+      - "摘要补充"
+      - "别名与交叉线索"
+    suggested_usage:
+      - "摘要补充"
+      - "别名发现"
+      - "交叉核验"
+    verification_status: "已确认"
+    notes: "二级来源，适合补充线索，不建议作为冲突事实的最终裁决依据。"
+
+  - source_id: src_s02_britannica
+    title: "Alan Turing | Biography, Facts, Computer, Machine, Education, & Death"
+    tier: 2
+    authority_level: "权威百科"
+    source_type: "html"
+    original_url: "https://www.britannica.com/biography/Alan-Turing"
+    raw_path: "data/raw/second/Alan Turing _ Biography, Facts, Computer, Machine, Education, & Death _ Britannica.htm"
+    organization: "Britannica"
+    topic_focus:
+      - "综合生平"
+      - "摘要补充"
+      - "教育与死亡信息"
+    suggested_usage:
+      - "摘要补充"
+      - "属性抽取"
+      - "交叉核验"
+    verification_status: "已确认"
+    notes: "二级来源，适合补足摘要性信息。"
+
+  - source_id: src_s03_science_industry_museum
+    title: "Alan Turing in Manchester"
+    tier: 2
+    authority_level: "博物馆机构页面"
+    source_type: "html"
+    original_url: "https://www.scienceandindustrymuseum.org.uk/objects-and-stories/alan-turing-in-manchester"
+    raw_path: "data/raw/second/Alan Turing in Manchester _ Science and Industry Museum.htm"
+    organization: "Science and Industry Museum"
+    topic_focus:
+      - "Manchester 阶段"
+      - "城市与机构关联"
+      - "人物纪念信息"
+    suggested_usage:
+      - "WORKED_AT 辅助校验"
+      - "Place 关系补充"
+      - "摘要补充"
+    verification_status: "已确认"
+    notes: "二级来源，可作为 Manchester 相关事实的补充来源。"
+
+inventory_summary:
+  total_registered_sources: 11
+  tier_1_sources: 8
+  tier_2_sources: 3
+  tier_3_sources: 0
+  remarks:
+    - "当前 data/raw/third 为空，暂未登记三级来源。"
+    - "只登记主来源文件，不把网页附带的 _files 资源目录计为来源。"
+    - "带有 待复核 标记的来源需要人工确认站点背景或内容后再参与主事实裁决。"

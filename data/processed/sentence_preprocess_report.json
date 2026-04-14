@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-14T07:28:55.318917+00:00",
+  "generated_at": "2026-04-14T13:24:46.638209+00:00",
   "document_count": 11,
-  "sentence_count": 1806,
+  "sentence_count": 1880,
   "error_count": 0,
   "doc_sentence_counts": [
     {
@@ -17,12 +17,12 @@
     {
       "doc_id": "doc_0003",
       "source_id": "src_f03_kings_college",
-      "sentence_count": 74
+      "sentence_count": 73
     },
     {
       "doc_id": "doc_0004",
       "source_id": "src_f04_princeton_graduate_school",
-      "sentence_count": 54
+      "sentence_count": 62
     },
     {
       "doc_id": "doc_0005",
@@ -32,7 +32,7 @@
     {
       "doc_id": "doc_0006",
       "source_id": "src_f06_university_of_manchester",
-      "sentence_count": 28
+      "sentence_count": 27
     },
     {
       "doc_id": "doc_0007",
@@ -52,12 +52,12 @@
     {
       "doc_id": "doc_0010",
       "source_id": "src_s02_britannica",
-      "sentence_count": 2
+      "sentence_count": 68
     },
     {
       "doc_id": "doc_0011",
       "source_id": "src_s03_science_industry_museum",
-      "sentence_count": 123
+      "sentence_count": 125
     }
   ],
   "errors": []
